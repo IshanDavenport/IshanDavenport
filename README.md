@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshanDavenport
-- 👀 I’m interested in ... Rub and Ruby on Rails
-- 🌱 I’m currently learning ... everything I can.
+- 👀 I’m interested in ... Ruby and Ruby on Rails
+- 🌱 I’m currently learning ... And building projects.
 - 💞️ I’m looking to collaborate on ... interesting web projects. I am really interested in data analysis related projects.
 - 📫 How to reach me ... Rubykod at gmail dot com.
 
